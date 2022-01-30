@@ -1,2 +1,2 @@
-# shibing-xiang.github.io
+# chibing.github.io
 Personal page
