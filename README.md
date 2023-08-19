@@ -1,3 +1,3 @@
-# ChibingXiang.github.io
+# shibing-xiang.github.io
 Personal page
 
